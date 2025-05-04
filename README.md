@@ -11,7 +11,7 @@
 
 <h2> Certifications:</h2>
 
-- [CompTIA Security+](https://)
+- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   
 
 <h2> 🤳 Connect with me:</h2>
